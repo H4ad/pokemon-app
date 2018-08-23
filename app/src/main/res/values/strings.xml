@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">PokemonAPI</string>
+    <string name="main_text">Digite o número de um Pokemon (de 1 até 255)</string>
+    <string name="main_hint_text">255</string>
 </resources>
