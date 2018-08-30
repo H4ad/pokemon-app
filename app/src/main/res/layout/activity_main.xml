@@ -37,7 +37,7 @@
         android:layout_marginTop="50dp"
         android:paddingVertical="15dp"
         android:paddingHorizontal="45dp"
-        android:text="Procurar pokemon!"
+        android:text="@string/procurar_pokemon"
         android:textColor="@color/background_light"/>
 
 </LinearLayout>

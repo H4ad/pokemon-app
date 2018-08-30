@@ -3,4 +3,8 @@
     <string name="main_text">Digite o número de um Pokemon (de 1 até 255)</string>
     <string name="main_hint_text">255</string>
     <string name="info_main_text">O número que você escolheu é do Pokemon</string>
+    <string name="procurar_pokemon">Procurar pokemon!</string>
+    <string name="procurando">Procurando...</string>
+    <string name="pokemon_invalido">Número do pokemon inválido!</string>
+    <string name="digite_num_antes">Você precisa digitar um número antes!</string>
 </resources>
